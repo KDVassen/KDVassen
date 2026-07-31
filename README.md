@@ -1,5 +1,7 @@
 ## Hi there 👋
+## My name is Kealon Vassen. I am currently a second year student at the University of Cape Town majoring in Computer Science and Business Computing. I am 21 years old and have a passion for rapid technology development.
 
+I am 
 <!--
 **KDVassen/KDVassen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
